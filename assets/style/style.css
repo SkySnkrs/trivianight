@@ -1,0 +1,23 @@
+/* BASIC STYLES HERE */
+
+
+.greyBg {
+    background-color: #778296;
+}
+
+
+.darkTheme {
+    background-color: #475853;
+}
+
+.lightTheme {
+    background-color: #afc2b5;
+}
+
+.secondaryTheme {
+    background-color: #758e85;
+}
+
+.cardHeight {
+    min-height: 55dvh;
+}

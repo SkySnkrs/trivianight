@@ -1,9 +1,10 @@
 import { TriviaController } from "./controllers/triviaController.js"
 
 
+
 class App {
 
-  TriviaController = new TriviaController
+  TriviaController = new TriviaController()
 
 
 }
